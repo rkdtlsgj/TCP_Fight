@@ -1,0 +1,3 @@
+﻿  TCP_Fight.cpp
+C:\Users\rkdtl\source\repos\TCP_Fight\TCP_Fight\SpriteDib.h(14): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CSpriteDib::st_SPRITE' 왼쪽은 무시됩니다.
+  TCP_Fight.vcxproj -> C:\Users\rkdtl\source\repos\TCP_Fight\x64\Debug\TCP_Fight.exe
